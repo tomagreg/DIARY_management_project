@@ -1,0 +1,3 @@
+C:/Users/tomag/CLionProjects/Diary_management/cmake-build-debug/CMakeFiles/Diary_management.dir
+C:/Users/tomag/CLionProjects/Diary_management/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tomag/CLionProjects/Diary_management/cmake-build-debug/CMakeFiles/rebuild_cache.dir
